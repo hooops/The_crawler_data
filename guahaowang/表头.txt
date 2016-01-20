@@ -1,0 +1,37 @@
+
+
+
+    b=疾病名称
+    c= 网页url
+
+ 
+    e= 医院名称
+    f= 对应医生表代码
+    g=概述
+    h=病因
+    i=发病机制
+    j=临床表现
+    k=并发症
+    l=实验室检查
+    m=其它辅助检查
+    n=诊断
+    o=鉴别诊断
+    p=诊疗
+    q=预后
+    r=预防
+
+
+
+
+
+
+    doc_name=医生名称
+    post=职位
+    hospital=医院名称
+    hospital_level=医院等级
+    good_for=擅长
+    code=对应疾病代码
+    doc_url=医生主页url
+
+
+
